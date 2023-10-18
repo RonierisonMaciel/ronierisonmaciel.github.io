@@ -2,45 +2,23 @@ url: https://ronierisonmaciel.github.io
 baseurl: ""
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Roni Maciel
+email: ronierison.maciel@gmail.com
+description: "Bem-vindo ao site do Roni Maciel, um entusiasta da tecnologia e inovação. Aqui, você encontrará reflexões sobre as últimas tendências digitais, projetos pessoais e insights sobre a intersecção entre tecnologia e vida cotidiana. Explore, conecte-se e inspire-se com o mundo digital através da minha perspectiva."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Ronierison Maciel
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
   position: Lead Developer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/ronimaciell
+    - title: github
+      url: https://github.com/RonierisonMaciel
+    - title: stack-overflow
+      url: https://stackoverflow.com/users/22103002/roni-maciel
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
