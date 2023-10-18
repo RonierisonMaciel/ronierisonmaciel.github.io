@@ -10,10 +10,8 @@
         <div class="row">
             {% for member in site.people %}
             <div class="col-sm-4">
-                <div class="team-member text-center">  <!-- Added text-center class here -->
-                    <div class="image-container">  <!-- Added this div to wrap the image -->
-                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="{{ member.name }}">
-                    </div>
+                <div class="team-member text-center">
+                    <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle mx-auto d-block" style="width: 225px; height: 225px; object-fit: cover;" alt="{{ member.name }}">
                     <h4>{{ member.name }}</h4>
                     <p class="text-muted">{{ member.position }}</p>
                     <ul class="list-inline social-buttons">
