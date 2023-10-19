@@ -12,12 +12,14 @@ people:
   pic: 1
   position: Lead Developer
   social:
-    - title: twitter
-      url: https://twitter.com/ronimaciell
+    - title: linkedin
+      url: https://www.linkedin.com/in/ronierisonmaciel/
     - title: github
       url: https://github.com/RonierisonMaciel
     - title: stack-overflow
       url: https://stackoverflow.com/users/22103002/roni-maciel
+    - title: twitter
+      url: https://twitter.com/ronimaciell
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
