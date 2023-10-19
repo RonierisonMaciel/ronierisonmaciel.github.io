@@ -27,27 +27,3 @@
             </div>
         </div>
     </section>
-<body>
-    <html>
-        <script type="text/javascript">
-            window.onload = function() {
-                var imageElements = document.querySelectorAll('.portfolio-item img');
-                imageElements.forEach(imageElement => {
-                    var src = imageElement.getAttribute('data-src');
-                    Jimp.read(src)
-                        .then(image => {
-                            return image
-                                .resize(400, Jimp.AUTO) // redimensiona a largura para 400 e a altura proporcionalmente
-                                .getBase64Async(Jimp.AUTO)
-                                .then(base64 => {
-                                    imageElement.src = base64; // atribui a imagem redimensionada ao elemento img
-                                });
-                            })
-                        .catch(err => {
-                            console.error(err);
-                });
-            });
-        };
-        </script>
-    </body>
-</html>
