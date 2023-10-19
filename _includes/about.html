@@ -11,9 +11,10 @@
             <div class="col-lg-12">
                 <ul class="timeline">
                     <!-- Education Entry -->
-                    <li class="timeline-inverted">
-                        <div class="timeline-image" style="background-image: url('img/about/education.jpg'); background-size: cover; background-position: center; width: 156px; height: 156px; border-radius: 50%;">
-                        </div>                        
+                    <li>
+                        <div class="timeline-image">
+                            <img src="img/about/education.jpg" class="img-responsive img-circle mx-auto d-block timeline-img" alt="Education">
+                        </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>2016 - 2018</h4>
@@ -28,7 +29,7 @@
 
                     <li class="timeline-inverted">
                         <div class="timeline-image">
-                            <img src="img/about/unisaomiguel.jpg" class="img-responsive img-circle mx-auto d-block" style="width: 156px; height: 156px; min-width: 156px; min-height: 156px; object-fit: cover;" alt="Trybe Image">
+                            <img src="img/about/unisaomiguel.jpg" class="img-responsive img-circle mx-auto d-block timeline-img" alt="UniSãoMiguel">
                         </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
@@ -42,7 +43,7 @@
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image">
-                            <img src="img/about/unirios.jpg" class="img-responsive img-circle mx-auto d-block" style="width: 156px; height: 156px; min-width: 156px; min-height: 156px; object-fit: cover;" alt="Trybe Image">
+                            <img src="img/about/unirios.jpg" class="img-responsive img-circle mx-auto d-block timeline-img" alt="UniRios">
                         </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
@@ -56,7 +57,7 @@
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image">
-                            <img src="img/about/trybe.jpg" class="img-responsive img-circle mx-auto d-block" style="width: 156px; height: 156px; min-width: 156px; min-height: 156px; object-fit: cover;" alt="Trybe Image">
+                            <img src="img/about/trybe.jpg" class="img-responsive img-circle mx-auto d-block timeline-img" alt="Trybe">
                         </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
@@ -70,7 +71,7 @@
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image">
-                            <img src="img/about/pmt.jpg" class="img-responsive img-circle mx-auto d-block" style="width: 156px; height: 156px; min-width: 156px; min-height: 156px; object-fit: cover;" alt="Trybe Image">
+                            <img src="img/about/pmt.jpg" class="img-responsive img-circle mx-auto d-block timeline-img" alt="PMT">
                         </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
@@ -84,7 +85,7 @@
                     </li>
                     <li>
                         <div class="timeline-image">
-                            <img src="img/about/certifications.jpg" class="img-responsive img-circle mx-auto d-block" style="width: 156px; height: 156px; min-width: 156px; min-height: 156px; object-fit: cover;" alt="Certifications Image">
+                            <img src="img/about/certifications.jpg" class="img-responsive img-circle mx-auto d-block timeline-img" alt="Certifications">
                         </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
@@ -107,3 +108,18 @@
         </div>
     </div>
 </section>
+<!-- Responsive Styles -->
+<style>
+    .timeline-img {
+        width: 156px;
+        height: 156px;
+        object-fit: cover;
+    }
+
+    @media (max-width: 767px) {
+        .timeline-img {
+            width: 80px;
+            height: 80px;
+        }
+    }
+</style>
