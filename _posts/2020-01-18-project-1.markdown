@@ -1,0 +1,14 @@
+---
+title: Prefeitura Municipal de Tacaratu (PMT)
+subtitle: Website Design
+layout: default
+modal-id: 1
+date: 2020-01-18
+img: pmt.png
+thumbnail: pmt-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Prefeitura Municipal de Tacaratu (PMT)
+category: Web Development
+description: Website developed for the Tacaratu city hall with the Ronierison Maciel coordination and his former student Gustavo Barbosa.
+---
