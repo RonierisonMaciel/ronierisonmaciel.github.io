@@ -10,5 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Prefeitura Municipal de Tacaratu (PMT)
 category: Web Development
-description: Website developed for the tourism at Tacaratu portal with the coordination of Ronierison Maciel and his former student Gustavo Barbosa.
+description: Website developed for the tourism at Tacaratu portal with the Ronierison Maciel coordination and his former student Gustavo Barbosa.
 ---
