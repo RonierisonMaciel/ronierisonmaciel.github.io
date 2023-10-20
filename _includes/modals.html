@@ -18,8 +18,10 @@
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="{{ post.clients.url }}">{{ post.clients.name }}</a>
-                                    </strong>
+                                    <strong>
+                                    {% for client in post.clients %}
+                                        <a href="{{ client.url }}">{{ client.name }}</a>{% if forloop.last == false %}, {% endif %}
+                                    {% endfor %}
                                     </strong>
                                 </li>
                                 <li>Date:
