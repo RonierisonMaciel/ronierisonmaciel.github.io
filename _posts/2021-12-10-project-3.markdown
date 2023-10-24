@@ -4,8 +4,8 @@ subtitle: Web Development
 layout: default
 modal-id: 3
 date: 2021-12-10
-img: pmt.png
-thumbnail: tourism-thumbnail.png
+img: wallet.png
+thumbnail: wallet-thumbnail.png
 alt: image-alt
 project-date: December 2021
 clients: 
