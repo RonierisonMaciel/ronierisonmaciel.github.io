@@ -1,6 +1,6 @@
 ---
 title: Prefeitura Municipal de Tacaratu (PMT)
-subtitle: Website Design
+subtitle: Web Development
 layout: default
 modal-id: 1
 date: 2020-01-18
@@ -8,11 +8,7 @@ img: pmt.png
 thumbnail: pmt-thumbnail.png
 alt: image-alt
 project-date: April 2014
-clients:
-  - name: Prefeitura Municipal de Tacaratu (PMT)
-    url: https://www.tacaratu.pe.gov.br
-  - name: Site de Turismo do Município de Tacaratu
-    url: https://www.turismo.tacaratu.pe.gov.br
+client: Start Bootstrap
 category: Web Development
 description: Website developed for the Tacaratu city hall with the Ronierison Maciel coordination and his former student Gustavo Barbosa.
 ---
