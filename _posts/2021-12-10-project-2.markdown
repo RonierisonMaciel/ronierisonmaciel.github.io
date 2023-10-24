@@ -10,7 +10,7 @@ alt: image-alt
 project-date: December 2021
 clients: 
   - name: Site de Turismo do Município de Tacaratu
-    url: https://www.turismo.tacaratu.pe.gov.br
+    url: https://www.visitetacaratu.com/
 category: Web Development
 description: Website developed for the Tourism with the Ronierison Maciel coordination and his former student Gustavo Barbosa.
 ---
