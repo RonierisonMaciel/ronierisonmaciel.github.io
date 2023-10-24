@@ -2,7 +2,7 @@
 title: Tourism
 subtitle: Web Development
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2021-12-10
 img: pmt.png
 thumbnail: tourism-thumbnail.png
