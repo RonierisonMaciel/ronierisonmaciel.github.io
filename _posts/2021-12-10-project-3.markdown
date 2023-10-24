@@ -1,6 +1,6 @@
 ---
 title: Wallet
-subtitle: Web Development
+subtitle: Mobile Development
 layout: default
 modal-id: 3
 date: 2021-12-10
@@ -11,6 +11,6 @@ project-date: December 2021
 clients: 
   - name: The project repository Wallet
     url: https://github.com/RonierisonMaciel/Wallet
-category: Web Development
-description: Website developed for the Tourism with the Ronierison Maciel coordination and his former student Gustavo Barbosa.
+category: Mobile Development
+description: Wallet is an iOS app for managing daily expenses with an intuitive interface. Add, edit, and monitor your transactions easily.
 ---
