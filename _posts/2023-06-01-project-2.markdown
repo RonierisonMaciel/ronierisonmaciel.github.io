@@ -1,0 +1,16 @@
+---
+title: Wallet
+subtitle: Mobile Development
+layout: default
+modal-id: 1
+date: 2023-06-01
+img: wallet.png
+thumbnail: wallet-thumbnail.png
+alt: image-alt
+project-date: June 2021
+clients: 
+  - name: The project repository Wallet
+    url: https://github.com/RonierisonMaciel/Wallet
+category: Mobile Development
+description: "Wallet" is an iOS app for managing daily expenses with an intuitive interface. Add, edit, and monitor your transactions easily.
+---
