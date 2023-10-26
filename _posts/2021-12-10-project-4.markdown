@@ -1,0 +1,16 @@
+---
+title: Web Query Analysis
+subtitle: Web Development
+layout: default
+modal-id: 4
+date: 2023-10-26
+img: query.png
+thumbnail: query-thumbnail.png
+alt: image-alt
+project-date: October 2023
+clients: 
+  - name: The project repository Web Development
+    url: https://github.com/RonierisonMaciel/WebQueryAnalyzer
+category: Web Development
+description: Streamlit application for analyzing web queries through the Google Custom Search API, displaying relevant results, and identifying the country of origin of the domain.
+---
