@@ -1,0 +1,16 @@
+---
+title: Personal web site
+subtitle: Web Development
+layout: default
+modal-id: 5
+date: 2018-08-01
+img: wordpress.png
+thumbnail: wordpress-thumbnail.png
+alt: image-alt
+project-date: August 2018
+clients: 
+  - name: My publications and research
+    url: http://maciel.recife.br/
+category: Web Development
+description: My publications and research development, the web portal, was developed in WordPress.
+---
