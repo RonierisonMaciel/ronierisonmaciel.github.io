@@ -1,5 +1,5 @@
 ---
-title: Personal web site
+title: Personal website
 subtitle: Web Development
 layout: default
 modal-id: 5
