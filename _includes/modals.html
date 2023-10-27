@@ -20,16 +20,16 @@
                                 <li>Client:
                                     <strong>
                                     {% for client in post.clients %}
-                                        <a href="{{ client.url }}">{{ client.name }}</a>{% if forloop.last == false %}, {% endif %}
+                                        <a href="{{ client.url }}" target="_blank">{{ client.name }}</a>{% if forloop.last == false %}, {% endif %}
                                     {% endfor %}
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="https://ronierisonmaciel.github.io/">{{ post.project-date }}</a>
+                                    <strong><a href="https://ronierisonmaciel.github.io/" target="_blank">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="https://ronierisonmaciel.github.io/">{{ post.category }}</a>
+                                    <strong><a href="https://ronierisonmaciel.github.io/" target="_blank">{{ post.category }}</a>
                                     </strong>
                                 </li>
                             </ul>
